@@ -51,7 +51,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://www.ecoride.tk/ecoride'),
+    'url' => env('APP_URL', 'http://www.ecoridemw.tk/ecoride'),
 
     /*
     |--------------------------------------------------------------------------
