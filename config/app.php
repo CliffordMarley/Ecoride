@@ -51,7 +51,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://157.245.134.213/zippy_taxi/'),
+    'url' => env('APP_URL', 'http://www.ecoride.tk/ecoride'),
 
     /*
     |--------------------------------------------------------------------------
